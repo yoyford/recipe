@@ -17,4 +17,9 @@
     box-sizing: border-box;
 }
 
-c
+main{
+    background-color: var(--stone100);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
