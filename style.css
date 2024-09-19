@@ -68,7 +68,7 @@ main{
     display: flex;
     flex-direction: column;
     font-family: var(--outfit);
-    border-bottom: 1px var(--stone150) solid;
+    background-color: #FFF7FB;
     
 }
 .preparation-container h1{
